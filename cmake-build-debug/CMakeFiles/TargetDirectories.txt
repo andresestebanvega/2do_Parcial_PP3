@@ -1,0 +1,3 @@
+D:/FIE/Paradigmas 3/Templatecpp/cmake-build-debug/CMakeFiles/Templatecpp.dir
+D:/FIE/Paradigmas 3/Templatecpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FIE/Paradigmas 3/Templatecpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
