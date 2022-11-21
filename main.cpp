@@ -14,6 +14,6 @@ int main() {
     //Requerimiento B
     empresa1.mostrarVendedorMayorRecaudacion();
     //Requerimiento C
-    empresa1.mostrarVendedorMenorRecaudacion();
+    //empresa1.mostrarVendedorMenorRecaudacion();
     return 0;
 }
